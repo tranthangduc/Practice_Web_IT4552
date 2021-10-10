@@ -1,8 +1,5 @@
 <html> 
     <body> 
-        sdfksdfjsdfhsdfkjsdfhsdkfj
-        sadfklasdfjsalfjsaldfjsaldfjsa
-        sadfljsafljsflsjdflsdjflsfjslfjsld
         <h1 style="text-align:center">This is a HTML practice exercise</h1> 
         <hr />
         <p>The heading above is aligned to the center of this page. The heading above is aligned to the center of this page. The heading above is aligned to the center of this page.</p>

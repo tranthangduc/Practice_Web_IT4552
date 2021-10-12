@@ -15,7 +15,7 @@
     }
 
     $data = [];
-    foreach (new DirectoryIterator("./upload") as $fileInfo) {
+    foreach (new DirectoryIterator("./filedate") as $fileInfo) {
             if($fileInfo->isDot())
                 continue;
             $tmpArr = array(
